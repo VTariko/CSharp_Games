@@ -1,0 +1,45 @@
+﻿<Window x:Class="Snake.SnakeGame"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Snake"
+        mc:Ignorable="d"
+        Title="SnakeGame" Height="350" Width="525">
+	<Window.Resources>
+		<Style TargetType="{x:Type TextBlock}">
+			<Setter Property="FontWeight" Value="DemiBold"></Setter>
+			<Setter Property="FontSize" Value="15"></Setter>
+			<Setter Property="VerticalAlignment" Value="Stretch"></Setter>
+		</Style>
+	</Window.Resources>
+    <Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="20"/>
+			<RowDefinition Height="1*"></RowDefinition>
+			<RowDefinition Height="20"/>
+		</Grid.RowDefinitions>
+		<Menu>
+			<MenuItem Header="Игра">
+				<MenuItem x:Name="miNew" Header="Новая игра"></MenuItem>
+				<Separator></Separator>
+				<MenuItem x:Name="miExit" Header="Выход"></MenuItem>
+			</MenuItem>
+			<MenuItem Header="Помощь">
+				<MenuItem x:Name="miAbout" Header="О игре"></MenuItem>
+			</MenuItem>
+		</Menu>
+		<!--<StackPanel Background="BlanchedAlmond" ></StackPanel>-->
+		<Border Grid.Row="1" BorderThickness="1" BorderBrush="Black">
+			<StackPanel Background="#FF5A336F"></StackPanel>
+		</Border>
+		<Grid Grid.Row="2" Background="BlanchedAlmond">
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="1*"></ColumnDefinition>
+				<ColumnDefinition Width="1*"></ColumnDefinition>
+			</Grid.ColumnDefinitions>
+			<TextBlock Text="Счет: " TextAlignment="Right"></TextBlock>
+			<TextBlock Grid.Column="1" Text="0" TextAlignment="Left"></TextBlock>
+		</Grid>
+	</Grid>
+</Window>
