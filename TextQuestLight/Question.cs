@@ -6,7 +6,6 @@ namespace TextQuestLight
 	/// <summary>
 	/// Класс для вопросов: объект содержит в себе сам вопрос и варианты ответов
 	/// </summary>
-	[Serializable]
 	class Question
 	{
 		#region Свойства
