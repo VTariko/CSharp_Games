@@ -1,0 +1,15 @@
+D:\Code\C#\CSharp_Games\SpaceHunter\bin\Debug\SpaceHunter.exe.config
+D:\Code\C#\CSharp_Games\SpaceHunter\bin\Debug\SpaceHunter.exe
+D:\Code\C#\CSharp_Games\SpaceHunter\bin\Debug\SpaceHunter.pdb
+D:\Code\C#\CSharp_Games\SpaceHunter\obj\Debug\MainWindow.g.cs
+D:\Code\C#\CSharp_Games\SpaceHunter\obj\Debug\App.g.cs
+D:\Code\C#\CSharp_Games\SpaceHunter\obj\Debug\SpaceHunter_MarkupCompile.cache
+D:\Code\C#\CSharp_Games\SpaceHunter\obj\Debug\SpaceHunter_MarkupCompile.lref
+D:\Code\C#\CSharp_Games\SpaceHunter\obj\Debug\MainWindow.baml
+D:\Code\C#\CSharp_Games\SpaceHunter\obj\Debug\SpaceHunter.g.resources
+D:\Code\C#\CSharp_Games\SpaceHunter\obj\Debug\SpaceHunter.Properties.Resources.resources
+D:\Code\C#\CSharp_Games\SpaceHunter\obj\Debug\SpaceHunter.csproj.GenerateResource.Cache
+D:\Code\C#\CSharp_Games\SpaceHunter\obj\Debug\SpaceHunter.exe
+D:\Code\C#\CSharp_Games\SpaceHunter\obj\Debug\SpaceHunter.pdb
+D:\Code\C#\CSharp_Games\SpaceHunter\obj\Debug\SpaceHunter.csprojResolveAssemblyReference.cache
+D:\Code\C#\CSharp_Games\SpaceHunter\obj\Debug\SpaceHunter.csproj.CoreCompileInputs.cache
