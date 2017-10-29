@@ -1,0 +1,15 @@
+D:\Code\C#\CSharp_Games\TagPuzzle\bin\Debug\TagPuzzle.exe.config
+D:\Code\C#\CSharp_Games\TagPuzzle\bin\Debug\TagPuzzle.exe
+D:\Code\C#\CSharp_Games\TagPuzzle\bin\Debug\TagPuzzle.pdb
+D:\Code\C#\CSharp_Games\TagPuzzle\obj\Debug\TagPuzzle.csprojResolveAssemblyReference.cache
+D:\Code\C#\CSharp_Games\TagPuzzle\obj\Debug\MainWindow.g.cs
+D:\Code\C#\CSharp_Games\TagPuzzle\obj\Debug\App.g.cs
+D:\Code\C#\CSharp_Games\TagPuzzle\obj\Debug\TagPuzzle_MarkupCompile.cache
+D:\Code\C#\CSharp_Games\TagPuzzle\obj\Debug\TagPuzzle_MarkupCompile.lref
+D:\Code\C#\CSharp_Games\TagPuzzle\obj\Debug\MainWindow.baml
+D:\Code\C#\CSharp_Games\TagPuzzle\obj\Debug\TagPuzzle.g.resources
+D:\Code\C#\CSharp_Games\TagPuzzle\obj\Debug\TagPuzzle.Properties.Resources.resources
+D:\Code\C#\CSharp_Games\TagPuzzle\obj\Debug\TagPuzzle.csproj.GenerateResource.Cache
+D:\Code\C#\CSharp_Games\TagPuzzle\obj\Debug\TagPuzzle.csproj.CoreCompileInputs.cache
+D:\Code\C#\CSharp_Games\TagPuzzle\obj\Debug\TagPuzzle.exe
+D:\Code\C#\CSharp_Games\TagPuzzle\obj\Debug\TagPuzzle.pdb
